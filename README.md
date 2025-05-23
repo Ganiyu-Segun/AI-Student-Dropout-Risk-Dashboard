@@ -29,14 +29,17 @@ This dashboard provides school administrators and education analysts with action
 
 ## 🖼️ Dashboard Previews
 
-### 📌 Executive Overview
-Executive Dashboard SS.jpeg
+## Executive Dashboard
+![Executive Dashboard](Student%20detail%20Dashboard%20SS.jpeg)
 
-### 📉 Dropout Risk & Key Influencers
-![Dropout Risk Analysis](key_influencers.png)
+## Key Analysis Dashboard
+![Key Analysis Dashboard](Key%20Analysis%20Dashboard%20SS.jpeg)
 
-### 👤 Student Profile Drill-Through
-![Student Profile](student_profile.png)
+## Student Detail Dashboard
+![Student Detail Dashboard](Student%20detail%20Dashboard%20SS.jpeg)
+
+## Student Profile Dashboard
+![Student Profile Dashboard](Student%20Profile%20Dashboard%20SS.jpeg)
 
 ---
 
