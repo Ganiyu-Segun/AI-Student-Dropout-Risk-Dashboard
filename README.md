@@ -30,7 +30,7 @@ This dashboard provides school administrators and education analysts with action
 ## 🖼️ Dashboard Previews
 
 ## Executive Dashboard
-![Executive Dashboard](Student%20detail%20Dashboard%20SS.jpeg)
+![Executive Dashboard](Executive%20Dashboard%20SS.jpeg)
 
 ## Key Analysis Dashboard
 ![Key Analysis Dashboard](Key%20Analysis%20Dashboard%20SS.jpeg)
