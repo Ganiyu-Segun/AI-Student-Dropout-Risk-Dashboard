@@ -30,7 +30,7 @@ This dashboard provides school administrators and education analysts with action
 ## 🖼️ Dashboard Previews
 
 ### 📌 Executive Overview
-![Executive Overview](Executive Dashboard SS.jpeg)
+(Executive Dashboard SS.jpeg)
 
 ### 📉 Dropout Risk & Key Influencers
 ![Dropout Risk Analysis](key_influencers.png)
