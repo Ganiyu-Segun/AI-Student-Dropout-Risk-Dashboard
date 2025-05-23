@@ -7,9 +7,37 @@ An AI-powered Power BI dashboard to predict and visualize student dropout risk, 
 
 ## 📌 Project Overview
 
-This dashboard provides school administrators and education analysts with actionable insights into factors influencing student dropout risks. It uses data analysis and AI-driven key influencers to identify and visualize students at risk based on variables such as attendance, parental engagement, behavior, and academic performance.
 
----
+Student dropout is a persistent issue in the Nigerian education system, often caused by low parental engagement, irregular attendance, poor academic performance, and financial imbalance. This project aims to provide school administrators with a data-driven dashboard to:
+
+Predict potential dropouts using key influencers.
+
+Visualize student behavior across terms and classes.
+
+Support decision-making to reduce student attrition.
+
+Data was cleaned and merged in SQL, and analyzed using Power BI to design an interactive, AI-driven dashboard.
+
+🎯 Objective
+To develop an intelligent dashboard that helps educational institutions:
+
+Identify at-risk students early.
+
+Understand dropout patterns based on engagement, scores, and attendance.
+
+Monitor term-wise performance metrics.
+
+🔍 Insights from the Dashboard
+Parental Engagement was the most significant factor influencing dropout risk.
+
+Students with low attendance and below-average academic performance showed higher dropout tendencies.
+
+Financial issues (unpaid balance) were strongly correlated with risk level.
+
+Class levels with the highest risk concentration were identified to enable targeted intervention.
+
+
+--
 
 ## 🚀 Key Features
 
